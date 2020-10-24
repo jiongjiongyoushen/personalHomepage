@@ -1,0 +1,166 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "http://philippehong.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://philippehong.com/img/PH-KeyPay.jpg",
+                    "path": "images/PH-KeyPay.jpeg"
+                },
+                {
+                    "url": "http://philippehong.com/img/PH-Snappr.jpg",
+                    "path": "images/PH-Snappr.jpeg"
+                },
+                {
+                    "url": "http://philippehong.com/img/PH-Airtasker.jpg",
+                    "path": "images/PH-Airtasker.jpeg"
+                },
+                {
+                    "url": "http://philippehong.com/img//PH-Vyte.jpg",
+                    "path": "images/PH-Vyte.jpeg"
+                },
+                {
+                    "url": "http://philippehong.com/img/PH-Bukket.jpg",
+                    "path": "images/PH-Bukket.jpeg"
+                },
+                {
+                    "url": "http://philippehong.com/js/jquery-1.11.2.min.js",
+                    "path": "js/jquery-1.11.2.min.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/jquery.easing.1.3.js",
+                    "path": "js/jquery.easing.1.3.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/main.js?version=1.0.0",
+                    "path": "js/main.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/jquery.scrollex.min.js",
+                    "path": "js/jquery.scrollex.min.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/scroll.js",
+                    "path": "js/scroll.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/regl.min.js",
+                    "path": "js/regl.min.js"
+                },
+                {
+                    "url": "http://philippehong.com/js/demo.js",
+                    "path": "js/demo.js"
+                },
+                {
+                    "url": "http://philippehong.com/css/bootstrap-grid.min.css",
+                    "path": "css/bootstrap-grid.min.css"
+                },
+                {
+                    "url": "http://philippehong.com/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css"
+                },
+                {
+                    "url": "http://philippehong.com/bower_components/normalize-css/normalize.css",
+                    "path": "css/normalize.css"
+                },
+                {
+                    "url": "http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css",
+                    "path": "css/animate.min.css"
+                },
+                {
+                    "url": "http://philippehong.com/css/styles.css",
+                    "path": "css/styles.css",
+                    "children": [
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit-Bold.eot",
+                            "path": "fonts/Larsseit-Bold.eot"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit-Bold.woff2",
+                            "path": "fonts/Larsseit-Bold.woff2"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit-Bold.woff",
+                            "path": "fonts/Larsseit-Bold.woff"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit-Bold.ttf",
+                            "path": "fonts/Larsseit-Bold.ttf"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit-Bold.svg#Larsseit-Bold",
+                            "path": "images/Larsseit-Bold.svg"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit.eot",
+                            "path": "fonts/Larsseit.eot"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit.woff2",
+                            "path": "fonts/Larsseit.woff2"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit.woff",
+                            "path": "fonts/Larsseit.woff"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit.ttf",
+                            "path": "fonts/Larsseit.ttf"
+                        },
+                        {
+                            "url": "http://philippehong.com/fonts/Larsseit.svg#Larsseit",
+                            "path": "images/Larsseit.svg"
+                        },
+                        {
+                            "url": "http://philippehong.com/img/image-pattern2.jpg",
+                            "path": "images/image-pattern2.jpg"
+                        },
+                        {
+                            "url": "http://philippehong.com/img/philippe-pic.jpg",
+                            "path": "images/philippe-pic.jpg"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://philippehong.com/favicon.png",
+                    "path": "images/favicon.png"
+                },
+                {
+                    "url": "http://philippehong.com/img/mobile/PH-KeyPay.jpg",
+                    "path": "images/PH-KeyPay.jpg"
+                },
+                {
+                    "url": "http://philippehong.com/img/mobile/PH-Snappr.jpg",
+                    "path": "images/PH-Snappr.jpg"
+                },
+                {
+                    "url": "http://philippehong.com/img/mobile/PH-Airtasker.jpg",
+                    "path": "images/PH-Airtasker.jpg"
+                },
+                {
+                    "url": "http://philippehong.com/img/mobile/PH-Vyte.jpg",
+                    "path": "images/PH-Vyte.jpg"
+                },
+                {
+                    "url": "http://philippehong.com/img/mobile/PH-Bukket.jpg",
+                    "path": "images/PH-Bukket.jpg"
+                },
+                {
+                    "url": "http://philippehong.com/img/facebook-philippehong.jpg",
+                    "path": "images/facebook-philippehong.jpg"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
